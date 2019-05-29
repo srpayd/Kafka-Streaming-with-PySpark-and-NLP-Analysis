@@ -1,7 +1,6 @@
 # kafka
-Kafka, Spark Streaming with Python
+I have applied Spark Streaming with Python to compute continuously generated logs in a real time. My solution is included in the KafkaWordCount.py script file. 
 
+Please also access attached "Documentation.docx" file (download by clicking on Raw View) to observe my approach in more detail.
 
-Please , also download attached "Documentation.docx" word file in this repository to reach my approach more in detail.
-
-Serap Aydogdu.
+Thanks.
